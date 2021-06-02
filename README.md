@@ -1,1 +1,10 @@
 # Onyxdata-Disney-Movie-Analysis
+
+Walt Disney Studios is the foundation on which The Walt Disney Company was built. The Studios has produced more than 600 films since its debut film, Snow White and the Seven Dwarfs in 1937. While many of its films were big hits, some of them were not. This dataset contains all the movies from 1937 to 2016 that were released by Disney. The data contains 579 Disney movies with six following attributes:
+
+movie_title
+release_data
+genre
+mpaa_rating
+total_gross
+inflation_adjusted gross
